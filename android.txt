@@ -1,0 +1,5 @@
+0.0.0.0 admob.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googletagservices.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pubads.g.doubleclick.net
