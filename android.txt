@@ -1,8 +1,50 @@
-0.0.0.0 admob.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googletagservices.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 video-ad-stats.googlesyndication.com
+# [doubleclick.net]
+127.0.0.1 doubleclick.net
+127.0.0.1 accounts.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad-emea.doubleclick.net
+127.0.0.1 ff.doubleclick.net
+127.0.0.1 fls.doubleclick.net
+127.0.0.1 5290727.fls.doubleclick.net
+127.0.0.1 8168974.fls.doubleclick.net
+127.0.0.1 8397396.fls.doubleclick.net
+127.0.0.1 g.doubleclick.net
+127.0.0.1 adx.g.doubleclick.net
+127.0.0.1 bid.g.doubleclick.net
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleads4.g.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 survey.g.doubleclick.net
+127.0.0.1 dart.l.doubleclick.net
+127.0.0.1 m.doubleclick.net
+127.0.0.1 s0.doubleclick.net
+127.0.0.1 static.doubleclick.net
+
+# [google-analytics.com]
+127.0.0.1 google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
+
+# [google.com]
+127.0.0.1 ads.google.com
+127.0.0.1 adservice.google.com
+
+# [googleadservices.com]
+127.0.0.1 googleadservices.com
+127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 www.googleadservices.com
+
+# [googleadsserving.cn]
+127.0.0.1 static.googleadsserving.cn
+
+# [googlesyndication.com]
+127.0.0.1 googlesyndication.com
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
+
+# [googleusercontent.com]
+127.0.0.1 displayads-formats.googleusercontent.com
