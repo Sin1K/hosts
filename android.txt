@@ -53,3 +53,20 @@
 0.0.0.0 pangle.io
 0.0.0.0 api16-access-gcp.pangle.io
 0.0.0.0 api16-access-sg.pangle.io
+
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 ad.unityads.unity3d.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 a.applovin.com
+0.0.0.0 d.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 api.vungle.com
+0.0.0.0 vungle.com
+0.0.0.0 is.applovin.com
+0.0.0.0 outcome.supersonicads.com
+0.0.0.0 pangle.io
+0.0.0.0 lf-hsgs.pglstatp.com
+0.0.0.0 graph.facebook.com
