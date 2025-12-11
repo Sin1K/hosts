@@ -1,4 +1,14 @@
-# [googleadservices.com]
-0.0.0.0 googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 www.googleadservices.com
+# [google-analytics.com]
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+
+# [google.com]
+0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+
+# [googleadsserving.cn]
+0.0.0.0 static.googleadsserving.cn
+
+# [googleusercontent.com]
+0.0.0.0 displayads-formats.googleusercontent.com
