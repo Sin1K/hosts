@@ -23,13 +23,28 @@
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 static.doubleclick.net
 
+# [google-analytics.com]
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+
+# [google.com]
+0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+
 # [googleadservices.com]
 0.0.0.0 googleadservices.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 www.googleadservices.com
+
+# [googleadsserving.cn]
+0.0.0.0 static.googleadsserving.cn
 
 # [googlesyndication.com]
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
+
+# [googleusercontent.com]
+0.0.0.0 displayads-formats.googleusercontent.com
