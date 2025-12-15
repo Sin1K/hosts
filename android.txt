@@ -353,13 +353,6 @@
 0.0.0.0 sdktm.w.inmobi.com
 0.0.0.0 vast.w.inmobi.com
 
-# [inmobicdn.net]
-0.0.0.0 inmobicdn.net
-0.0.0.0 l.inmobicdn.net
-0.0.0.0 i.l.inmobicdn.net
-0.0.0.0 i.l-dsp.inmobicdn.net
-0.0.0.0 supply.inmobicdn.net
-
 # [yieldmo.com]
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 sync.ads.yieldmo.com
