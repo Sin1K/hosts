@@ -359,23 +359,4 @@
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 i.l-dsp.inmobicdn.net
 0.0.0.0 supply.inmobicdn.net
-
-# [yieldmo.com]
-0.0.0.0 ads.yieldmo.com
-0.0.0.0 sync.ads.yieldmo.com
-0.0.0.0 sync-criteo.ads.yieldmo.com
-0.0.0.0 sync-eb.ads.yieldmo.com
-0.0.0.0 ap-southeast-1-ads.yieldmo.com
-0.0.0.0 matchadsrvr.yieldmo.com
-0.0.0.0 rw.yieldmo.com
-0.0.0.0 gdpr.rw.yieldmo.com
-0.0.0.0 world.rw.yieldmo.com
-0.0.0.0 us-east-1.world.rw.yieldmo.com
-0.0.0.0 us-west-2.world.rw.yieldmo.com
-0.0.0.0 s.yieldmo.com
-0.0.0.0 static.yieldmo.com
-0.0.0.0 tas.yieldmo.com
-0.0.0.0 update.tas.yieldmo.com
-0.0.0.0 s.update.tas.yieldmo.com
-0.0.0.0 tkr.yieldmo.com
 0.0.0.0 w.yieldmo.com
